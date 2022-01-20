@@ -1,4 +1,4 @@
 # BrainTrainer
 
-Aplicatie realizata pe versiunea de Android Oreo 8.1 ( API 27 ).
-In aceasta aplicatie este un fel de quiz cu intrebari privind calculul matematic , avand un anumit timp in care putem raspunde la cat mai multe intrebari , raspunsurile fiind contorizate , spre exemplu ( 5/7 - reprezentand 5 raspunsuri corecte din 7 intrebari generate ) . Generarea numerelor pentru intrebari cat si pentru raspuns este RANDOM.
+Application made on Android Oreo version 8.1 (API 27).
+In this application is a kind of quiz with questions about mathematical calculation, having a certain time in which we can answer as many questions as possible, the answers being counted, for example (5/7 - representing 5 correct answers from 7 questions generated). Generating numbers for both questions and answers is RANDOM.
